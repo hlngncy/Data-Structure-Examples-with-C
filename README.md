@@ -1,4 +1,4 @@
-# Data-Structure-Examples-with-C
+# Data-Structure-Examples-with-C/Cpp
 Data structure examples with C language for educational purpose. 
 I hope it can inspire you about what you want to do.
 # Updates
